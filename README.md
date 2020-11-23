@@ -30,3 +30,8 @@ A clone of the productivity chrome app [Momentum](https://chrome.google.com/webs
 - Javascript
   - VanilaJS
   - Local Storage
+  
+# TODO
+
+- js, css파일 이동
+- css꾸미기
